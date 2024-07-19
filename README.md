@@ -13,7 +13,6 @@ https://wokwi.com/projects/403424894110618625
 
 <img width="687" alt="Screen Shot 1446-01-13 at 6 20 19 PM" src="https://github.com/user-attachments/assets/4fe5e86d-ca94-40cc-9315-37b2aa38217c">
 
-
 ## Code
 
 The LED matrix patterns were generated using the [Online LED Matrix Font Generator](https://www.riyas.org/2013/12/online-led-matrix-font-generator-with.html). This tool makes specifying the pin configuration easier.
@@ -63,6 +62,6 @@ void loop() {
     }
     delay(100);
 }
-
+```
 ## Resources
 https://youtu.be/TJ76sQpGMlQ?si=zGFA4LhUUzdoos8A
