@@ -8,6 +8,11 @@ This project simulates a robot mouth using an LED matrix connected to an Arduino
 The project aims to create a simple representation of a robot's mouth using an 8x8 LED matrix. The expressions are controlled by an Arduino Uno, and the simulation is run on Wokwi, an online Arduino simulator.
 https://wokwi.com/projects/403424894110618625
 
+## Demo
+<img width="655" alt="Screen Shot 1446-01-13 at 6 20 11 PM" src="https://github.com/user-attachments/assets/a143bc90-7281-4911-b788-77cec51f8689">
+
+<img width="687" alt="Screen Shot 1446-01-13 at 6 20 19 PM" src="https://github.com/user-attachments/assets/4fe5e86d-ca94-40cc-9315-37b2aa38217c">
+
 
 ## Code
 
