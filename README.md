@@ -7,7 +7,7 @@ Electrnics task3: Simulate a robot mouth using an LED matrix connected to an Ard
 The project aims to create a simple representation of a robot's mouth using an 8x8 LED matrix. The expressions are controlled by an Arduino Uno, and the simulation is run on Wokwi, an online Arduino simulator.
 
 
-https://wokwi.com/projects/403424894110618625
+Try the demo on this wokwi link: https://wokwi.com/projects/403424894110618625
 
 ## Demo
 <img width="300" alt="Screen Shot 1446-01-13 at 6 20 11 PM" src="https://github.com/user-attachments/assets/a143bc90-7281-4911-b788-77cec51f8689">
