@@ -1,6 +1,6 @@
 # sm-electronics-robotmouth-task3
 
-Electrnics task3: Simulate a robot mouth using an LED matrix connected to an Arduino Uno. 
+Electronics task3: Simulate a robot mouth using an LED matrix connected to an Arduino Uno. 
 
 ## Overview
 
